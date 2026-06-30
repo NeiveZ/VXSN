@@ -3,7 +3,7 @@
 """
 VXSN - Vulnerability & Exploit Scanner
 Author: NeiveZ | github.com/NeiveZ/VXSN
-For authorized security testing only.
+For authorized security testing only. 
 """
 
 import cmd
