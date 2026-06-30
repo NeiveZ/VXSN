@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # VXSN - Vulnerability & Exploit Scanner
 # Author: NeiveZ | github.com/NeiveZ/VXSN
-
+ 
 set -euo pipefail
 
 RED='\033[91m'; GREEN='\033[92m'; YELLOW='\033[93m'
